@@ -41,7 +41,7 @@
   </li>
   <li>Codeforces/
     <ul>
-      <li>Grouped by difficulty (800–1000+)</li>
+      <li>Grouped by difficulty (800–1000)</li>
     </ul>
   </li>
 </ul>
