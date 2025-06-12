@@ -1,5 +1,3 @@
-<h1 style="text-align: center;">🚀 Problem Solving Journey: LeetCode + Codeforces</h1>
-
 <h2 style="text-align: center;">🎯 Goal:</h2>
 <ul>
   <li>✅ 150+ LeetCode Problems</li>
@@ -31,17 +29,3 @@
     </tr>
   </tbody>
 </table>
-
-<h2 style="text-align: center;">📚 Folders</h2>
-<ul>
-  <li>LeetCode/
-    <ul>
-      <li>Easy, Medium</li>
-    </ul>
-  </li>
-  <li>Codeforces/
-    <ul>
-      <li>Grouped by difficulty (800–1000)</li>
-    </ul>
-  </li>
-</ul>
