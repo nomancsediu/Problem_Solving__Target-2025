@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>Codeforces</td>
-      <td>14</td>
+      <td>16</td>
       <td>150</td>
       <td>🔄 In Progress</td>
     </tr>
